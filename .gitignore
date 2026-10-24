@@ -1,0 +1,8 @@
+# Katalon Studio
+bin/
+.report/
+.classpath
+.project
+.settings/
+*.log
+*.tmp

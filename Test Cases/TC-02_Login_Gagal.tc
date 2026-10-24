@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02_Login_Gagal</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>IF Yeshiana</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>IF Yeshiana</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>db51fff9-5905-450a-a288-6346bbc5603a</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>db51fff9-5905-450a-a288-6346bbc5603a</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>664b48b3-2e89-4c2a-a6bd-47c57d232867</testCaseGuid>
+</TestCaseEntity>
